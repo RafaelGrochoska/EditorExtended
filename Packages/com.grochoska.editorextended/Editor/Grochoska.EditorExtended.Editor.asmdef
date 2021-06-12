@@ -1,0 +1,16 @@
+{
+    "name": "Grochoska.EditorExtended.Editor",
+    "rootNamespace": "Grochoska.EditorExtended",
+    "references": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
